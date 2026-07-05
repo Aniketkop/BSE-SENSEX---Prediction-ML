@@ -148,9 +148,6 @@ The notebook includes multiple visualizations such as:
 
 ---
 
-## 📜 License
-
-This project is released under the MIT License.
 
 ---
 
